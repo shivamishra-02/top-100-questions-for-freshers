@@ -15,7 +15,7 @@
 
 ## 📈 Progress Tracker
 
-✅ Completed: 10 / 100  
+✅ Completed: 20 / 100  
 ⏳ Ongoing...
 
 (Will update regularly)
